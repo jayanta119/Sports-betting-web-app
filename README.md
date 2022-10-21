@@ -1,4 +1,4 @@
-# Sports-betting-web-app
+# Sports-betting-web-app ok
 Bisically this application serve as an Info system for predicting sports results and placing a wager on the outcome. 
 This application runs on PHP/MYSQL. 
 
